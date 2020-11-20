@@ -7,3 +7,6 @@ The principal components can vary in eigenvalue however in many cases there are 
 Comment on the quality of the reconstructed images:
 
 Due to shortcomings in the functionality of the code, the images produces are not as accurate as I would have desired in general however a trend can be found that the more principle components used, the more accurate the result. The basic structure of the church can be seen throughout the results set however the shape is mmuch more clear for R100 than R10, however the diminishing returns mention above can be seen as R55 does not show that much of a loss from R100 due to R100 containing the less useful 0.x values.
+
+
+To run code simply open in matlab with given file stucture and execute.
